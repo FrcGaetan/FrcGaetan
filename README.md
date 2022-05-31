@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrcGaetan
-- 👀 I’m interested in  le code.
-- 🌱 I’m currently learning  des languages de programmation.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning  programming.
 - 📫 How to reach me  par mail "mdrlo@hotmail.fr"
 
 <!---
